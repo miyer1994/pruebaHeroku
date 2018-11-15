@@ -9,12 +9,15 @@
 	</header>
 	<section>
 		<div> Esto es un mensaje de prueba para heroku.</div>
+		<form>
+			Nombre: <input type="text" name="">
+		</form>
 	</section>
 	<footer>
 		<ul>
-			<li>Direccio: </li>
+			<li>Direccion: </li>
 			<li>telefono: </li>
-			<li>Emai: </li>
+			<li>Email: </li>
 		</ul>
 	</footer>
 
